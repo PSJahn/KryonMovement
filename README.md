@@ -8,7 +8,7 @@ Currently not meant for First Person Applications.
 ```cs
 /*
 "KryonMovement": Rigidbody-Based Player Movement Script
-Copyright 2022 PSJahn
+(Sorta) Copyright 2022 PSJahn
 Not Optimized for First Person Games.
 */
 
